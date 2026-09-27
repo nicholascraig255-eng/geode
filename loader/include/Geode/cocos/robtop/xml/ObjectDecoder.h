@@ -31,4 +31,4 @@ public:
 	ObjectDecoderDelegate* m_delegate;
 };
 
-#endif
+#endif Add 5x speed
